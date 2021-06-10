@@ -27,6 +27,8 @@ class Solution:
             if count >= 10:
                 count -= 10
                 total = 1
+            else:
+                total = 0
 
             temp.next = ListNode(count)
             
