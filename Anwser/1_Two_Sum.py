@@ -32,4 +32,4 @@ class Solution:
 
 
 solution = Solution()
-print(solution.twoSum([2,11,5,7], 9))
+print(solution.twoSum([3,2,11,5,7], 9))
