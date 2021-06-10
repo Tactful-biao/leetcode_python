@@ -65,4 +65,4 @@ class Solution:
 
 solution = Solution()
 str = 'abcdgrmklgregvsdlkhsdkfja,.#@%#^I&*'
-solution.lengthOfLongestSubstring(str)
+print(solution.lengthOfLongestSubstring2(str))
